@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![이연규's GitHub stats](https://github-readme-stats.vercel.app/api?username=Da-413&thema='gruvbox')](https://github.com/anuraghazra/github-readme-stats)
+[![이연규's GitHub stats](https://github-readme-stats.vercel.app/api?username=Da-413&thema=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 **Da-413/Da-413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
